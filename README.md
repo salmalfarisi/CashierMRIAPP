@@ -1,5 +1,12 @@
-# TemplateCodeIgniter
-Standard Template for CodeIgniter 3
+# Cashier MRI App
+Aplikasi untuk mencatat pemesanan makanan dan minuman yang dipesan oleh customer
 
-#Note : 
-Sering-sering main ke adminLTE dan biasakan pelajari lagi cara main form dan model codeigniter
+Tools : 
+1. Front-end :
+- Bootstrap
+
+2. Back-end :
+- Codeigniter 3
+
+3. Database : 
+- MySQL
